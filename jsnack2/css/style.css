@@ -1,0 +1,13 @@
+body{
+    background-color:lightseagreen;
+}
+.game-box{
+    width: 30%;
+    background-color:cornflowerblue;
+    margin: 100px auto;
+    color: white;
+    text-align: center;
+}
+h1{
+    padding: 20px 0;
+}

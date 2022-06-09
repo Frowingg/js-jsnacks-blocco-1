@@ -1,0 +1,22 @@
+body{
+    background-color: coral;
+}
+.container{
+    width: 60%;
+    background-color: white;
+    margin: 100px auto;
+    display: flex;
+}
+#even{
+    width: 50%;
+    border: 2px solid green;
+    color: green;
+    font-size: 30px;
+}
+
+#odd{
+    width: 50%;
+    border: 2px solid red;
+    color: red;
+    font-size: 30px;
+}
