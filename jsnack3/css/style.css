@@ -11,8 +11,23 @@ body{
     background-color: white;
     margin: 200px auto;
     border-radius: 25px;
+    padding: 50px 0;
+    text-align: center;
+    border: 1px solid black;
 }
 h1{
     text-align: center;
     padding: 50px 0;
+}
+h2{
+    margin-bottom: 30px;
+}
+#sum-btn{
+    background-color: aquamarine;
+    margin-top: 40px;
+    color: black;
+    border-color: black;
+}
+label{
+    margin-bottom: 40px;
 }
