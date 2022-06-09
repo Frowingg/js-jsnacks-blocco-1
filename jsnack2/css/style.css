@@ -11,3 +11,7 @@ body{
 h1{
     padding: 20px 0;
 }
+#sum-btn{
+    background-color: lightseagreen;
+
+}
